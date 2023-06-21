@@ -49,21 +49,21 @@ Therefore, based on both the elbow method and the silhouette coefficient, the co
 **Segmentation Results:**
 
 **1. Balance and Credit Usage:**
-- Group 2 exhibits the highest average balance (3,589.19), followed by Group 0 (4,652.62). This indicates that these groups have more funds available in their accounts for making purchases.
-- Group 3 has the lowest average balance (915.83), suggesting that these customers may have lower purchasing power.
+- Group 2 exhibits the highest average balance (3,589.19$), followed by Group 0 (4,652.62$). This indicates that these groups have more funds available in their accounts for making purchases.
+- Group 3 has the lowest average balance (915.83$), suggesting that these customers may have lower purchasing power.
 
 **2. Purchase Behavior:**
-- Group 2 shows the highest average purchase amount (7,843.31) and also has the highest average number of purchase transactions (90.84). This indicates that this group makes larger and more frequent purchases.
-- Group 1 demonstrates the lowest values in terms of average purchase amount (275.04) and average number of purchase transactions (3.03). These customers engage in less frequent and lower-value purchases.
+- Group 2 shows the highest average purchase amount (7,843.31$) and also has the highest average number of purchase transactions (90.84). This indicates that this group makes larger and more frequent purchases.
+- Group 1 demonstrates the lowest values in terms of average purchase amount (275.04$) and average number of purchase transactions (3.03). These customers engage in less frequent and lower-value purchases.
 
 **3. Cash Advances:**
-- Group 0 exhibits the highest average cash advance amount (4,582.46) and also the highest frequency of cash advances. This could indicate a higher reliance on cash advances for financial needs within this group.
-- Group 1 has the lowest average cash advance amount (603.97) and frequency. This suggests that these customers have less need for cash advances.
+- Group 0 exhibits the highest average cash advance amount (4,582.46$) and also the highest frequency of cash advances. This could indicate a higher reliance on cash advances for financial needs within this group.
+- Group 1 has the lowest average cash advance amount (603.97$) and frequency. This suggests that these customers have less need for cash advances.
 
 **4. Credit Limit and Payments:**
-- Group 2 has the highest average credit limit (9,758.31), indicating a greater credit capacity for these customers.
-- Group 3 has the lowest average credit limit (4,266.37), suggesting relatively limited credit capacity.
-- In terms of payments, Group 2 demonstrates the highest average payment amount (7,464.10), while Group 1 shows the lowest average payment (1,013.02). This could indicate a difference in payment capacity and financial discipline among the groups.
+- Group 2 has the highest average credit limit (9,758.31$), indicating a greater credit capacity for these customers.
+- Group 3 has the lowest average credit limit (4,266.37$), suggesting relatively limited credit capacity.
+- In terms of payments, Group 2 demonstrates the highest average payment amount (7,464.10$), while Group 1 shows the lowest average payment (1,013.02$). This could indicate a difference in payment capacity and financial discipline among the groups.
 
 In summary, different customer groups exhibit distinctive financial behavior characteristics. While Group 2 stands out with high balance, purchase amounts, and credit limit, Group 1 has lower balances and purchase activity. Group 0 shows a more frequent use of cash advances, while Group 3 has lower credit limits and payment amounts. These differences suggest varying credit risk profiles and financial behavior among the customer groups.
 
