@@ -40,10 +40,9 @@ In addition, the silhouette coefficient has been utilized to support this decisi
 
 Therefore, based on both the elbow method and the silhouette coefficient, the consensus is that the optimal number of clusters for this K-means algorithm is 4, as it aligns with the preference for having more than 2 distinct groups while taking into account the suggestions provided by the silhouette coefficient.
 
-![image](https://github.com/JorgeMiGo/Clients-Credit-Card/assets/127945994/50a58a6c-c0ea-47c6-84d8-511effa73571)
+![image](https://github.com/JorgeMiGo/Clients-Credit-Card/assets/127945994/738c5236-805d-439f-8428-ff72a537a5ad)
 
-![image](https://github.com/JorgeMiGo/Clients-Credit-Card/assets/127945994/2b115d36-1821-40fd-ba0f-fde46d27816d)
-
+![image](https://github.com/JorgeMiGo/Clients-Credit-Card/assets/127945994/511e6d85-83fd-458e-8d1b-30dab54c362f)
 
 
 **Segmentation Results:**
